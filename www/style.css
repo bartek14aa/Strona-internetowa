@@ -1,0 +1,18 @@
+
+/* Nieodwiedzony link */
+a:link
+{
+	color: white;
+}
+
+/* Odwiedzony link */
+a:visited
+{
+	color: white;
+}
+
+/* :link po najechaniu kursorem */
+a:hover
+{
+	color: red;
+}
